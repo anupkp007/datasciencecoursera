@@ -48,41 +48,7 @@
 </article>
   </div>
 
-    </div>
-
-  
-
-
-  <details class="details-reset details-overlay details-overlay-dark" id="jumpto-line-details-dialog">
-    <summary data-hotkey="l" aria-label="Jump to line"></summary>
-    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
-        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
-        <button type="submit" class="btn" data-close-dialog>Go</button>
-</form>    </details-dialog>
-  </details>
-
-    <div class="Popover anim-scale-in js-tagsearch-popover"
-     hidden
-     data-tagsearch-url="/Gkontopodis/Data-Management-Visualization/find-definition"
-     data-tagsearch-ref="master"
-     data-tagsearch-path="Assignment Week 4/README.md"
-     data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:179304954,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/Gkontopodis/Data-Management-Visualization/blob/master/Assignment%20Week%204/README.md&quot;,&quot;user_id&quot;:32974665}}"
-     data-hydro-click-hmac="c1dd0748b5a7eba7d47edf38a772afb6e63ef8844e9094b541350f404fdbee6c">
-  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box box-shadow-large">
-    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
-    </div>
-  </div>
-</div>
-
-
-
-
-  </div>
-</div>
-
-    </main>
+    
   </div>
 
   </div>
